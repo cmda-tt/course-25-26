@@ -1,64 +1,265 @@
-# Tech Track 24/25 Schedule
+# Tech Track 25/26 Schedule
 
-## Week 0 - Prerequisites: Catching up with ES6
+## Week 0
+### Prerequisites: catching up with ES6
 
-| Date             | Day              | Subject                       | Teachers |
-| ---------------- | ---------------- | ----------------------------- | -------- |
-| 7th-11th October | Monday to Friday | Prerequisites (Self-study)    | -        |
-| 10th October     | Thursday         | 14:30-16:10 WBH05C46: Q&A ES6 | Berry    |
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Subject</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+   	<tr>
+  		<td>6th-10th of October</td>
+  		<td>Monday to Friday</td>
+  		<td>Prerequisites</td>
+  		<td>Self-study</td>
+  	</tr>
+  </tbody>
+</table>
 
 ## Week 1 - Warming up
 
-| Date         | Day     | Subject                                                   | Teachers      |
-| ------------ | ------- | --------------------------------------------------------- | ------------- |
-| 14th October | Monday  | Kick-off, Introduction, Playing with data                                | Danny & Laura |
-| 15th October | Tuesday | Functional usage of JavaScript filter, map, reduce (f2f) | Laura         |
-| 18th October | Friday  | Q&A ES6                                                   | Berry         |
-| 18th October | Friday  | Researching datasets & Sketching ideas| Danny         |
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Subject</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>13th of October</td>
+  		<td>Monday</td>
+  		<td>Welcome (kick-off); playing with data</td>
+  		<td>Danny & Laura</td>
+  	</tr>
+  	<tr>
+  		<td>14th of October</td>
+  		<td>Tuesday</td>
+  		<td>Functional usage of JavaScript: filter, map, reduce</td>
+  		<td>Danny & Laura</td>
+  	</tr>
+    <tr>
+  		<td>15th of October</td>
+  		<td>Wednesday</td>
+  		<td>Workshop Objects, libraries and API's</td>
+  		<td>Laura</td>
+  	</tr>    
+	   	<tr>
+  		<td>16th of October</td>
+  		<td>Thursay</td>
+  		<td>Researching datasets & sketching ideas</td>
+  		<td>Danny</td>
+ 	</tr>  
+  </tbody>
+</table>
 
-## Week 2 - Architecture
+## Week X - Herfstreces
 
-| Date         | Day      | Subject                                                          | Teachers      |
-| ------------ | -------- | ---------------------------------------------------------------- | ------------- |
-| 21st October | Monday   | Objects, libraries and APIs; Datasets & Ideas Show & Tell                              | Laura & Danny |
-| 22nd October | Tuesday  | 13:40-15:20 TTH02B21  Researching datasets & Sketching ideas; Brianne en Yeliz| Laura         |
-| 24th October | Thursday | Submit your ideas (12:00)                                        | Danny, Laura  |
-| 25th October | Friday   | Setting up your project with Svelte, install D3          | Danny         |
+> [!NOTE]
+> Herfstreces van 20 tot 24 Oct. Je kunt na de eerste week les aandacht besteden aan de programmeer concepten en technische onderwerpen die je nog niet goed beheerst. Als je bij bent qua kennis kun je de herfstvakantie gebruiken om na te denken over je concept en verder onderzoek te doen naar de dataset(s) die je zou willen gebruiken.
 
-## Week XX - Fall Recess
 
-> [!NOTE]  
-> Fall recess between Week 2 and Week 3 (28 Oct - 1 Nov).
+## Week 2 - Functional Programming 
 
-## Week 3 - Visualization with D3
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Subject</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
 
-| Date         | Day       | Subject                                       | Teachers       |
-| ------------ | --------- | --------------------------------------------- | -------------- |
-| 4th November | Monday    | Introduction D3 and core concepts             | Laura & Danny  |
-| 5th November | Tuesday   | 11:10-12:50 Online: Working with Scales in D3 | Laura          |
-| 6th November | Wednesday | 14:30-16:10 Online: Working with Scales in D3 | Laura          |
-| 8th November | Friday    | Advanced & Interactive D3, dynamic filters    | Danny          |
+  <tbody>
+  	<tr>
+  		<td>27st of October</td>
+  		<td>Monday</td>
+  		<td>Pitch your ideas.., Data Fetching</td>
+  		<td>Laura & Danny</td>
+  	</tr>
+  	<tr>
+  		<td>28nd of October</td>
+  		<td>Tuesday</td>
+  		<td>Higher order functions (advanced, filter, map, reduce)</td>
+  		<td>Laura & Danny</td>
+  	</tr>
+	<tr>
+  		<td>29th of October</td>
+  		<td>Wednesday</td>
+  		<td>Q&A - 12:00 - Submit your concept</td>
+  		<td>Laura</td>
+  	</tr>   
+   	<tr>
+  		<td>30nd of October</td>
+  		<td>Thursday</td>
+  		<td>Setting up your project with Svelte, introduction to D3</td>
+  		<td>Danny</td>
+    </tr>   
+  </tbody>
+ </table>
+
+
+## Week 3 - Visualisation with D3
+
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Subject</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
+  <!-- D3 -->
+  <tbody>
+  	<tr>
+  		<td>3th of November</td>
+  		<td>Monday</td>
+  		<td>Guest? Working with D3</td>
+  		<td>Laura & Danny</td>
+  	</tr>
+  	<tr>
+  		<td>4th of November</td>
+  		<td>Tuesday</td>
+  		<td>Working with Scales in D3</td>
+  		<td>Laura</td>
+  	</tr>
+  	<tr>
+  		<td>5th of November</td>
+  		<td>Wednesday</td>
+  		<td>??</td>
+  		<td>Laura</td>
+  	</tr>
+   	<tr>
+  		<td>6th of November</td>
+  		<td>Thursday</td>
+  		<td>Advanced & Interactive D3</td>
+  		<td>Danny</td>
+  	</tr>
+  </tbody>
+ </table>
 
 ## Week 4 - Storytelling
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Subject</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>10th of November</td>
+  		<td>Monday</td>
+  		<td>Documenting Tech research</td>
+  		<td>Danny & Laura</td>
+  	</tr>
+  	<tr>
+  		<td>11th of November</td>
+  		<td>Tuesday</td>
+  		<td>Asynchronous programming</td>
+  		<td>Danny & Laura</td>
+  	</tr>
+  	<tr>
+  		<td>12th of November</td>
+  		<td>Wednesday</td>
+  		<td>Time, geospatial apps and JSON</td>
+  		<td>Laura</td>
+  	</tr>
+   	<tr>
+  		<td>14th of November</td>
+  		<td>Friday</td>
+  		<td>??</td>
+  		<td>Danny</td>
+ 	</tr>
+  </tbody>
+ </table>
 
-| Date          | Day       | Subject                                             | Teachers       |
-| ------------- | --------- | --------------------------------------------------- | -------------- |
-| 11th November | Monday    | Documenting Tech Research                           | Danny & Laura  |
-| 12th November | Tuesday   | Time, Geospatial Apps, and JSON standards for geo apps | Laura       |
-| 15th November | Friday    | Asynchronous Programming, Data flow                 | Berry |
+ ## Week 5 - Peer feedback and deployment
 
-## Week 5 - Peer Feedback and Deployment
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Subject</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>17th of November</td>
+  		<td>Monday</td>
+  		<td>??</td>
+  		<td>Laura & Danny</td>
+    </tr>
+  	<tr>
+  		<td>18th of November</td>
+  		<td>Tuesday f2f</td>
+  		<td>Refactoring and optimization</td>
+  		<td>Laura & Danny</td>
+  	</tr>
+   	<tr>
+  		<td>19th of November</td>
+  		<td>Wednesday</td>
+  		<td>??</td>
+  		<td>Laura</td>
+  	</tr>	
+	<tr>
+  		<td>20th of November</td>
+  		<td>Friday</td>
+  		<td>Deployment</td>
+  		<td>Danny</td>
+  	</tr>
+  </tbody>
+ </table>
 
-| Date          | Day     | Subject             | Teachers       |
-| ------------- | ------- | ------------------- | -------------- |
-| 18th November | Monday  | Grading, storytelling, setting up a tests| Laura & Danny  |
-| 19th November | Tuesday | Peer Feedback (f2f) | Laura          |
-| 22nd November | Friday  | Build and Deployment          | Danny (Berry?) |
+## Week 6 - Refactoring & Assessemnet
 
-## Week 6 - Refactoring & Assessment
-
-| Date          | Day     | Subject                      | Teachers      |
-| ------------- | ------- | ---------------------------- | ------------- |
-| 26th November | Monday  | Refactoring and Optimization | Danny & Laura |
-| 27th November | Tuesday | Q&A (Online)                 | Danny?        |
-| 1st December  | Friday  | Assessment                   | Laura & Danny |
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Subject</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>24th of November</td>
+  		<td>Monday</td>
+  		<td>Peer feedback</td>
+  		<td>Danny & Laura</td>
+  	</tr>
+  	<tr>
+  		<td>25th of November</td>
+  		<td>Tuesday</td>
+  		<td>Q & A </td>
+  		<td>Danny & Laura</td>
+  	</tr>
+   	<tr>
+  		<td>26th of November</td>
+  		<td>Wednesday</td>
+  		<td>Assessment?</td>
+  		<td>Laura</td>
+  	</tr>
+   	<tr>
+  		<td>26th of November</td>
+  		<td>Friday</td>
+  		<td>Assessment</td>
+  		<td>Laura & Danny</td>
+  	</tr>
+  </tbody>
+ </table>
