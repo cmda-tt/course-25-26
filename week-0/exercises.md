@@ -66,7 +66,7 @@ This should the result be:
 		"Laura",
 		"Danny",
 		"Berry",
-		"Roos"index kopie
+		"Roos"
 	];
 
 
@@ -112,7 +112,7 @@ This should be the result:
 			employer: "DEPT"
 		}
 		{
-			name: "ubaida",
+			name: "Ubaida",
 			age: "26",
 			employer: "Clarify"
 		}
