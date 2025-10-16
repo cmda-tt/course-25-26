@@ -24,14 +24,15 @@ Als je niet verder komt of tegen problemen aanloopt, vraag dan zeker je medestud
 - [Wes Bos Array Cardio Day #1 | JavaScript30](https://www.youtube.com/watch?v=HB1ZC7czKRs)
 - [Wes Bos Array Cardio Day #2 | JavaScript30](https://www.youtube.com/watch?v=QNmRfyNg1lw)
 
-### Woensdag & Donderdag
+### Woensdag 
 
-Zelfstudie om verder aan de slag te gaan met de opdrachten en de stof over functioneel programmeren.
+Er staat een workshop klaar over geneste object structuur en API's. In de workshop leggen we in globale lijnen uit hoe data formaten en een API werkt volgens het REST model.
 
-### Vrijdag
+### Donderdag
 
-Reviewen we het materiaal wat we de afgelopen lessen hebben besproken en beantwoorden we eventueel vragen over onderwerpen en opdrachten die nog niet duidelijk zijn. We geven ook een introductie in het gebruik van Modules in JavaScript. De rest van de les gaan we beginnen met het onderzoeken van een dataset en het conceptualiseren van je idee voor een interactieve visualisatie.
+Gaan we aan de slag met een oefening voor het ophalen van data door gebruik te maken van de Fetch API. We lopen erdoorheen hoe je dat doet met Promises en ook met Async Await. Het tweede deel van de les gaan we een start maken met het onderzoek doen naar je dataset die je gaat visualiseren. Welke eisen zitten aan de dataset, welk onderwerp ga je kiezen, welke onderzoeksvraag ga je eruit halen en hoe lees je de documentatie van je API.
 
+- [MDN - Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [MDN - JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [JavaScript.info - Modules Introduction](https://javascript.info/modules-intro)
 
