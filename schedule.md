@@ -101,7 +101,7 @@
    	<tr>
   		<td>30nd of October</td>
   		<td>Thursday</td>
-  		<td>Setting up your project with Svelte, introduction to D3</td>
+  		<td>Setting up your project with Svelte (boilerplate)</td>
   		<td>Danny</td>
     </tr>   
   </tbody>
@@ -124,14 +124,14 @@
   	<tr>
   		<td>3th of November</td>
   		<td>Monday</td>
-  		<td>Guest? Working with D3</td>
+  		<td>D3 introduction and concepts</td>
   		<td>Laura & Danny</td>
   	</tr>
   	<tr>
   		<td>4th of November</td>
   		<td>Tuesday</td>
-  		<td>Working with Scales in D3</td>
-  		<td>Laura</td>
+  		<td>Working with Scales and Joins in D3</td>
+  		<td>Laura & Danny</td>
   	</tr>
   	<tr>
   		<td>5th of November</td>
