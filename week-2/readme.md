@@ -15,17 +15,17 @@ We beginnen de week met een show en tell van je onderwerp en dataset. Kom naar d
 - Kies een dataset die **dynamisch** is en enigszins **groot** is met aardig wat (+10.000) datapunten.
 - Hoe is **de documentatie** van de API? Welke formaten geeft de API terug? Zijn er filter en query parameter opties?
 
-Het tweede deel van de les geeft Laura een interactieve Workshop over API's en objecten met Code Monkey Island. Tijdens de les spelen we een spel om de flow van een API uit te leggen en kijken we nog eens dieper naar de objectstructureren.
+Ook staat er een gastcollege van Binc op de planning. Hij heeft vorig jaar de tech-track gedaan en komt over zijn project vertellen.
 
 ### Dinsdag
 
-Vandaag staat er een gastcollege van [Brianne de Deugd](https://github.com/briannededeugd) en [Yeliz Ünlü](https://github.com/yelunl) op de planning. Zij hebben vorig jaar de tech-track gedaan en komen over hun project vertellen.
+_Vervallen les vanwege ziekte_.
 
-### Woensdag & Donderdag
+### Woensdag
 
 Zelfstudie om verder te werken aan je **concept** deliverable. Voor _donderdag 12:00_ lever je een .pdf in bij **de assignments op DLO** met een concept voor je visualisatie. Tip: schrijf eerst dingen uit en update je wiki hier op GitHub zodat het daar ook staat. Dan kan je er daarna nog een mooie deliverable van maken.
 
-### Vrijdag
+### Donderdag
 
 We maken een start met het opzetten van ons project. Je krijgt een introductie en uitleg over wat frameworks en bundlers doen. Vervolgens gebruiken we deze kennis om zelf een _boilerplate_ te maken met [D3](https://d3js.org/) en [Svelte](https://svelte.dev/). Daarvoor heb je node.js en npm nodig. Installeer de laatste versie alvast op je computer via [de installer](https://nodejs.org/en).
 
