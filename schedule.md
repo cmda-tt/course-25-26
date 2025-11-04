@@ -130,19 +130,19 @@
   	<tr>
   		<td>4th of November</td>
   		<td>Tuesday</td>
-  		<td>Working with Scales and Joins in D3</td>
+  		<td>Select and joins in D3</td>
   		<td>Laura & Danny</td>
   	</tr>
   	<tr>
   		<td>5th of November</td>
   		<td>Wednesday</td>
-  		<td>??</td>
+  		<td>D3 domain, range and axes</td>
   		<td>Laura</td>
   	</tr>
    	<tr>
   		<td>6th of November</td>
   		<td>Thursday</td>
-  		<td>Advanced & Interactive D3</td>
+  		<td>Advanced joins (filter, update)</td>
   		<td>Danny</td>
   	</tr>
   </tbody>
