@@ -162,19 +162,19 @@
   	<tr>
   		<td>10th of November</td>
   		<td>Monday</td>
-  		<td>Documenting Tech research</td>
+  		<td>API exploratie, D3 Events</td>
   		<td>Danny & Laura</td>
   	</tr>
   	<tr>
   		<td>11th of November</td>
   		<td>Tuesday</td>
-  		<td>Asynchronous programming</td>
+  		<td>Date objects and Geo data</td>
   		<td>Danny & Laura</td>
   	</tr>
   	<tr>
   		<td>12th of November</td>
   		<td>Wednesday</td>
-  		<td>Time, geospatial apps and JSON</td>
+  		<td>??</td>
   		<td>Laura</td>
   	</tr>
    	<tr>
@@ -201,7 +201,7 @@
   	<tr>
   		<td>17th of November</td>
   		<td>Monday</td>
-  		<td>??</td>
+  		<td>Peer feedback (v1)</td>
   		<td>Laura & Danny</td>
     </tr>
   	<tr>
@@ -240,7 +240,7 @@
   	<tr>
   		<td>24th of November</td>
   		<td>Monday</td>
-  		<td>Peer feedback</td>
+  		<td>Peer feedback (v2)</td>
   		<td>Danny & Laura</td>
   	</tr>
   	<tr>
