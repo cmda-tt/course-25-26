@@ -201,7 +201,7 @@
   	<tr>
   		<td>17th of November</td>
   		<td>Monday</td>
-  		<td>Peer feedback (storytelling)</td>
+  		<td>User Test</td>
   		<td>Laura & Danny</td>
     </tr>
   	<tr>
