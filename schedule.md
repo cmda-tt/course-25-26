@@ -253,7 +253,7 @@
   		<td>26th of November</td>
   		<td>Wednesday</td>
   		<td>Skip Class</td>
-  		<td>Laura</td>
+  		<td></td>
   	</tr>
    	<tr>
   		<td>26th of November</td>
