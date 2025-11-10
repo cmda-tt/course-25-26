@@ -180,7 +180,7 @@
    	<tr>
   		<td>14th of November</td>
   		<td>Friday</td>
-  		<td>??</td>
+  		<td>Async and Modules</td>
   		<td>Danny</td>
  	</tr>
   </tbody>
@@ -201,19 +201,19 @@
   	<tr>
   		<td>17th of November</td>
   		<td>Monday</td>
-  		<td>Peer feedback (v1)</td>
+  		<td>Peer feedback (storytelling)</td>
   		<td>Laura & Danny</td>
     </tr>
   	<tr>
   		<td>18th of November</td>
-  		<td>Tuesday f2f</td>
+  		<td>Tuesday </td>
   		<td>Refactoring and optimization</td>
   		<td>Laura & Danny</td>
   	</tr>
    	<tr>
   		<td>19th of November</td>
   		<td>Wednesday</td>
-  		<td>??</td>
+  		<td>Code Review (v2)</td>
   		<td>Laura</td>
   	</tr>	
 	<tr>
@@ -240,19 +240,19 @@
   	<tr>
   		<td>24th of November</td>
   		<td>Monday</td>
-  		<td>Peer feedback (v2)</td>
+  		<td>Q & A</td>
   		<td>Danny & Laura</td>
   	</tr>
   	<tr>
   		<td>25th of November</td>
   		<td>Tuesday</td>
-  		<td>Q & A </td>
+  		<td>23:59 deadline</td>
   		<td>Danny & Laura</td>
   	</tr>
    	<tr>
   		<td>26th of November</td>
   		<td>Wednesday</td>
-  		<td>Assessment?</td>
+  		<td>Skip Class</td>
   		<td>Laura</td>
   	</tr>
    	<tr>
