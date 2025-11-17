@@ -67,7 +67,7 @@
 > Herfstreces van 20 tot 24 Oct. Je kunt na de eerste week les aandacht besteden aan de programmeer concepten en technische onderwerpen die je nog niet goed beheerst. Als je bij bent qua kennis kun je de herfstvakantie gebruiken om na te denken over je concept en verder onderzoek te doen naar de dataset(s) die je zou willen gebruiken.
 
 
-## Week 2 - Functional Programming 
+## Week 2 - Deep dive JS Programming
 
 <table style="width:100%">
   <thead>
@@ -246,13 +246,13 @@
   	<tr>
   		<td>25th of November</td>
   		<td>Tuesday</td>
-  		<td>23:59 deadline</td>
+  		<td>Q & A (online)</td>
   		<td>Danny & Laura</td>
   	</tr>
    	<tr>
   		<td>26th of November</td>
   		<td>Wednesday</td>
-  		<td>Skip Class</td>
+  		<td>deadline 12:00 - Skip Class</td>
   		<td></td>
   	</tr>
    	<tr>
