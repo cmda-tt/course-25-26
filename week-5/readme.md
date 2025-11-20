@@ -13,7 +13,7 @@ Deze les staat in het teken van user tests en scenario's schrijven die je kunt (
 - [CMD Methods Pack](https://cmdmethods.nl/)
 - [Replacing the User Story with the Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 
-### Dinsdag
+### Dinsdag, Woensdag
 
 Aan de hand van een formulier gaan we in rondes peer-reviews doen met je eigen project op basis van feedback van je mede-studenten. We doen zowel een code review, feedback op je code structuur, als een concept review, is je concept helder?
 

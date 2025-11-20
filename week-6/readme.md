@@ -6,21 +6,21 @@
 
 ## Planning
 
-### Maandag
+### Maandag (Q&A fysiek)
 
-Nog een laatste workshop over het refactoren van je code. Verder is er tijdens de les gewoon de ruimte om verder te werken aan je project en vragen te stellen of feedback te krijgen.
+Tijdens deze les zijn Laura en ik er allebei en is het vooral zelfstudie tijdens de les. Ruimte om verder te werken aan je project en laatste vragen te stellen of feedback te krijgen.
 
 
-### Dinsdag, woensdag & donderdag
+### Dinsdag (Q&A online)
 
-Zelfstudie om verder te werken aan je **visualisatie** concept. Ga verder aan de slag met het uitwerken van je interactie (bijv. filters, sortings etc.) en denk na over eventuele JSON standaarden die je in je project en visualisatie kan gebruiken. Schrijf ook voor jezelf op welk onderwerp je wilt gaan onderzoeken voor je **technisch onderzoek** ne begin met het documenteren daarvan in je wiki en design rationale.
+Zelfde als gister maar dan online. We zullen een meeting openen in het #tech-track channel van het information design MS Teams. Wandel virtueel binnen als je nog ergens vragen over hebt.
+
+### Woensdag (deadline)
+
+**De, democratisch besloten, deadline voor inleveren op DLO onder assignments is woensdag 26 november om 12:00 ('s middags).** Zie DLO *eindopdracht > eindbeoordeling* voor wat je precies moet inleveren in het assignment. Dat geeft ons woensdagmiddag en donderdag de tijd om jullie werk voor te bekijken voor de assessments.
 
 ### Vrijdag
 
-We gaan beoordelen! In een mondeling van een halfuur laat je aan de docenten zien wat je hebt gemaakt en hoe je dat hebt gedocumenteerd in je wiki en design rationale. **De, democratisch besloten, deadline voor inleveren op DLO onder assignments is donderdag 28 november om 23:59.**
-
-Kijk van tevoren nog eens goed het beoordelingsformulier (zie DLO). _De indeling kun je in het #general channel van het tech-track team vinden._
-
-- [Zie Teams voor een indeling voor de beoordelingen](#)
+We gaan beoordelen! In een mondeling van ongeveer een halfuur laat je aan de docenten zien wat je hebt gemaakt en hoe je dat hebt gedocumenteerd in je wiki en design rationale. Kijk van tevoren nog eens goed het beoordelingsformulier (zie DLO). _De indeling voor de gesprekken kun je tzt in het tech-track channel vinden._
 
 [banner]: /images/banners/week-6.png
